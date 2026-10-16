@@ -38,6 +38,31 @@ MongoQuest addresses this challenge by providing a visual, interactive environme
 - Encourage consistent learning through challenges and rewards.
 - Help students progress from basic queries to advanced database concepts.
 
+## Project Screenshots
+### Dashboard
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+
+### Playgorund
+![Playground](playground.png)
+
+### Courses
+![Courses](learning.png)
+
+### Challenges
+![Challenges](challenges.png)
+
+### Progress
+![levels](levels.png)
+
+### Profile
+![profile](profile.png)
+
+### Settings
+![settings](settings.png)
+
+
+
 ## Key Features
 
 ### 1. Interactive MongoDB Playground
