@@ -39,28 +39,42 @@ MongoQuest addresses this challenge by providing a visual, interactive environme
 - Help students progress from basic queries to advanced database concepts.
 
 ## Project Screenshots
-### Dashboard
-![Dashboard](dashboard1.png)
-![Dashboard](dashboard2.png)
+## 📸 Project Screenshots
 
-### Playgorund
-![Playground](playground.png)
+<p align="center">
+  <img src="./dashboard1.png" alt="Dashboard 1" width="48%">
+  <img src="./dashboard2.png" alt="Dashboard 2" width="48%">
+</p>
 
-### Courses
-![Courses](learning.png)
+### 🎮 Playground
+<p align="center">
+  <img src="./playground.png" alt="Playground" width="80%">
+</p>
 
-### Challenges
-![Challenges](challenges.png)
+### 📚 Courses
+<p align="center">
+  <img src="./learning.png" alt="Courses" width="80%">
+</p>
 
-### Progress
-![levels](levels.png)
+### 🏆 Challenges
+<p align="center">
+  <img src="./challenges.png" alt="Challenges" width="80%">
+</p>
 
-### Profile
-![profile](profile.png)
+### 📈 Progress
+<p align="center">
+  <img src="./levels.png" alt="Progress and Levels" width="80%">
+</p>
 
-### Settings
-![settings](settings.png)
+### 👤 Profile
+<p align="center">
+  <img src="./profile.png" alt="Profile" width="80%">
+</p>
 
+### ⚙️ Settings
+<p align="center">
+  <img src="./settings.png" alt="Settings" width="80%">
+</p>
 
 
 ## Key Features
